@@ -6,7 +6,7 @@ var functions = new [] {
   (int x, int y) => x - y,
   (int x, int y) => x / y
 };
-
+//example to use
 var x = 10;
 var y = 5;
 
